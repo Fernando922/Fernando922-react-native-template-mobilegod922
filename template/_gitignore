@@ -20,6 +20,8 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+index.android.bundle.map
+.jso
 
 # Android/IntelliJ
 #
@@ -40,6 +42,7 @@ buck-out/
 \.buckd/
 *.keystore
 !debug.keystore
+*.jks
 
 # fastlane
 #
@@ -57,3 +60,13 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+#env
+.env
+
+# covarage jest
+coverage/
+
+
+#detox
+artifacts
