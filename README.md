@@ -73,7 +73,7 @@ Sim! Não sofreremos mais configurando novos projetos!
 
 ## Suporte
 
-Para suporte, mande um email para dipaula018@mail.com.
+Para suporte, mande um email para dipaula018@mail.com. E claro, PRs são bem vindos sempre!
 
 ## Autores
 
