@@ -64,7 +64,7 @@ Cansado de configurar um projeto novo inteiro do zero? Chegou a solução!
 ## Utilizando o template
 
 ```bash
-  npx reat-native init projectName --template react-native-template-mobilegod922
+  npx react-native init projectName --template react-native-template-mobilegod922
 ```
 
 ## É util esse template?
